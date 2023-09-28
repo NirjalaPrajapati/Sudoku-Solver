@@ -31,7 +31,7 @@ def possible(row, column, number):
                 return False
 
     return True
-
+    #
 def solve():
     global grid
     for row in range(0,9):
